@@ -1,4 +1,4 @@
-## <h1 border="none" align="center"> Olá! Eu sou o <a>Gustavo</a> 🚀</h1>
+## <h1 border="none" align="center"> Olá! Eu sou o Gustavo 🚀</h1>
 <br>
 <h4>Meu nome é Gustavo Kobielski, seja bem-vindo(a) ao meu GitHub!</h4>
 <h4>Sou um entusiasta da tecnologia e programação. Estou atualmente estudando Desenvolvimento Back-end e Front-end,sempre em busca de novos desafios e oportunidades para crescer profissionalmente.</h4>
