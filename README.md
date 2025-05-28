@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2019<br>📚 Eu estou atualmente estudando AngularJS<br>🤵 Trabalho: Atualmente sou Desenvolvedor Front-end na Upflux<br>🎯 Curiosidade: Já vi a maioria das linguagens, pelo menos o básico, algumas até intermediario. E conheci a programação em 2018<br>🙂 Pontos fortes: lógica de programação, aprendizado rápido e adaptabilidade são meus maiores diferenciais</p>
+<p align="left">✨ Criando bugs desde 2019<br>📚 Eu estou atualmente estudando AngularJS<br>🤵 Trabalho: Atualmente sou Desenvolvedor Front-end na Upflux<br>🎯 Curiosidade: Já vi a maioria das linguagens, pelo menos o básico, maioria até intermediario. E conheci a programação em 2018<br>🙂 Pontos fortes: lógica de programação, aprendizado rápido e adaptabilidade são meus maiores diferenciais</p>
 
 ###
 
