@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2019<br>📚 Eu estou atualmente estudando AngularJS<br>🤵 Trabalho: Atualmente sou Desenvolvedor Front-end na Upflux<br>🎯 Curiosidade: Já vi a maioria das linguagens, pelo menos o básico, maioria até intermediario. E conheci a programação em 2018<br>🙂 Pontos fortes: lógica de programação, aprendizado rápido e adaptabilidade são meus maiores diferenciais</p>
+<p align="left">
+- 🎓 Desenvolvedor Front-end com foco em Angular, React e TypeScript<br>
+- 💼 Atualmente trabalhando na Upflux como Desenvolvedor Front-end<br>
+- 💡 Apaixonado por resolver problemas com código limpo e boas práticas<br>
+- 🧠 Autodidata, com forte lógica de programação e rápido aprendizado<br>
+- 📈 Interesse por performance, UX e escalabilidade<br>
+- 🚀 Em transição para se tornar um desenvolvedor Full Stack, aprofundando conhecimentos em backend e arquitetura de sistemas
+</p>
+
 
 ###
 
@@ -76,10 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GustavoKobielski/GustavoKobielski/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoKobielski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoKobielski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -95,7 +99,7 @@
   <a href="https://www.linkedin.com/in/gustavo-kobielski?" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="gust.kobielski@gmail.com" target="_blank">
+  <a href="mailto:gust.kobielski@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
