@@ -12,7 +12,7 @@
 
 <p align="left">
 - 🎓 Desenvolvedor Front-end com foco em Angular, React e TypeScript<br>
-- 💼 Atualmente trabalhando na Upflux como Desenvolvedor Front-end<br>
+- 💼 Atualmente trabalhando na Aec como Desenvolvedor Pleno Front-end<br>
 - 💡 Apaixonado por resolver problemas com código limpo e boas práticas<br>
 - 🧠 Autodidata, com forte lógica de programação e rápido aprendizado<br>
 - 📈 Interesse por performance, UX e escalabilidade<br>
